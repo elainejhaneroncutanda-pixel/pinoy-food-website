@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About</title>
+</head>
+<body>
+
+<h1>Our Story</h1>
+
+<p>This website shares Filipino food, traditions, and recipes.</p>
+<p>From Luzon, Visayas, and Mindanao.</p>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>
